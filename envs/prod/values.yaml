@@ -4,7 +4,7 @@ clusterAppsDomain: apps.cluster-w97m7.w97m7.sandbox753.opentlc.com
 
 image:
   masterfile: 
-    repo: quay.io/kbai/masterfile
+    repo: quay.io/rh-ee-pshih/masterfile
     tag: df40ae2df7cd7c2641de945fe95b5ce913f9b876
   fare: 
     repo: quay.io/ske/m-caj-fare
